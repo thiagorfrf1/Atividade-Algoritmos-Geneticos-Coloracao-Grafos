@@ -1,0 +1,134 @@
+body{
+
+}
+#imagem{
+	z-index: 0;
+	float:left;
+}
+.vermelho{
+	background-color: red;
+	font-size: 45px;
+}
+.azul{
+	background-color: blue;
+	font-size: 45px;
+}
+.amarelo{
+	background-color: yellow;
+	font-size: 45px;
+}
+.branco{
+	background-color: white;
+	font-size: 45px;
+}
+
+#circulo0{
+	z-index: 9999;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float:left;
+	margin-left: -19.5%;
+	margin-top: 0.9%;
+}
+#circulo1{
+	z-index: 9999;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float:left;
+	margin-left: -32.1%;
+	margin-top: 10.8%;
+}
+
+
+#circulo2{
+	z-index: 9999;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float:left;
+	margin-left: -27.9%;
+	margin-top: 24.4%;
+}
+
+#circulo3{
+	z-index: 9999;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float:left;
+	margin-left: -10.9%;
+	margin-top: 24.4%;
+}
+
+#circulo4{
+	z-index: 9999;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float:left;
+	margin-left: -6.1%;
+	margin-top: 10.8%;
+}
+
+#circulo9{
+	z-index: 9999;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float:left;
+	margin-left: -19.5%;
+	margin-top: 7.2%;
+}
+
+#circulo5{
+	z-index: 9999;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float:left;
+	margin-left: -25.3%;
+	margin-top: 10.8%;
+}
+
+#circulo6{
+	z-index: 9999;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float:left;
+	margin-left: -23.4%;
+	margin-top: 17.8%;
+}
+#circulo7{
+	z-index: 9999;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float:left;
+	margin-left: -15.6%;
+	margin-top: 17.7%;
+}
+
+
+#circulo8{
+	z-index: 9999;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	float:left;
+	margin-left: -13.6%;
+	margin-top: 10.8%;
+}
+
+
+
+
+
+
+
+
+
+
+
